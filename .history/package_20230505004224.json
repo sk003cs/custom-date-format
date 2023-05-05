@@ -1,0 +1,43 @@
+{
+    "name": "customizable-date-format",
+    "version": "0.0.1",
+    "author": "SENTHILKUMAR R(sk003cs@gmail.com)",
+    "license": "MIT",
+    "repository": "",
+    "description": "",
+    "keywords": [
+        "Customize date format",
+        "Date format customizable",
+        "Custom format",
+        "Custom date format",
+        "Custom format",
+        "Date format customizable",
+        "date",
+        "date input"
+    ],
+    "main": "./build/index.js",
+    "scripts": {
+        "start": "webpack --watch",
+        "build": "webpack --mode production"
+    },
+    "dependencies": {
+        "moment": "^2.29.4"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.10",
+        "@babel/plugin-proposal-class-properties": "^7.12.1",
+        "@babel/preset-env": "^7.12.10",
+        "@babel/preset-react": "^7.12.10",
+        "babel-loader": "^8.2.2",
+        "css-loader": "^5.0.1",
+        "file-loader": "^6.2.0",
+        "html-loader": "^1.3.2",
+        "less": "^3.13.0",
+        "less-loader": "^7.1.0",
+        "style-loader": "^2.0.0",
+        "url-loader": "^4.1.1",
+        "webpack": "^5.10.0",
+        "webpack-cli": "^4.2.0",
+        "webpack-dev-server": "^3.11.0"
+    }
+}
