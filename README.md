@@ -19,6 +19,6 @@ import CustomDateFormat from 'custom-date-format';
 }}>
 ```
 
-![Custom Format](/assets/1.png?raw=true "Custom Format")
+![Custom Format](https://raw.githubusercontent.com/sk003cs/custom-date-format/main/assets/1.png "Custom Format")
 <!-- ![Custom Format](/assets/2.png?raw=true "Custom Format") -->
-![Custom Format](/assets/3.png?raw=true "Date picker")
+![Custom Format](https://raw.githubusercontent.com/sk003cs/custom-date-format/main/assets/3.png "Date picker")

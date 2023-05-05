@@ -6,5 +6,7 @@ app.css
 jsconfig.json
 tsconfig.json
 workbook
+example
 build/index.js.LICENSE.txt
 .history
+assets
