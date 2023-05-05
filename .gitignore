@@ -1,6 +1,7 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 # dependencies
+node_modules
 /node_modules
 /.pnp
 .pnp.js
@@ -9,7 +10,7 @@
 /coverage
 
 # production
-/build
+# /build
 
 # misc
 .DS_Store
@@ -32,3 +33,9 @@ debug.log
 # Mac 
 **/.DS_Store
 .DS_Store
+
+.history
+.vscode
+
+#Bit public folder
+public
